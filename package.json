@@ -1,6 +1,25 @@
 {
-  "name": "airbnb_api_express",
-  "version": "1.0",
+  "name": "airbnb-api",
+  "version": "1.0.0",
+  "description": "AirBNB API using Express JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muzazu/airbnb-api.git"
+  },
+  "keywords": [
+    "api",
+    "airbnb"
+  ],
+  "author": "Muhammad Zaid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muzazu/airbnb-api/issues"
+  },
+  "homepage": "https://github.com/muzazu/airbnb-api#readme",
   "dependencies": {
     "db-migrate": "^0.11.1",
     "express": "^4.16.3"
